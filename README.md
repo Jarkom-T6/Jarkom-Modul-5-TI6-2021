@@ -12,7 +12,7 @@
 
 ## Subnetting VLSM
 
-![shift 5.jpg](Jarkom-Modul-5-TI6-2021%20bbeb5268cd4f46b09df1dfe108bfa97b/shift_5.jpg)
+![vlsm.jpg](Jarkom-Modul-5-TI6-2021%20bbeb5268cd4f46b09df1dfe108bfa97b/shift_5.jpg)
 
 ### Pembagian NID dan Netmask
 
